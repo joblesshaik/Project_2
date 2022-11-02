@@ -15,7 +15,7 @@
 
 ## Preview Of Site
 
-![Preview](/Restaurant%20Preview.png)
+![Preview](thumbnail.png)
 
 ## Live Link
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1fea3e11-d529-48f0-b138-5d858ad16c07/deploy-status)](https://app.netlify.com/sites/darling-biscotti-51fb6c/deploys)
